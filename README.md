@@ -1,7 +1,7 @@
 # Tasks for junior pl/sql
 
-Database schema.
-[Database schema](readme-imgs/schema.png)
+## Database schema
+<img src="/readme-imgs/schema.png" width="800" height="700"/>
 
 ## Tasks
 1. Registration dates <br>
