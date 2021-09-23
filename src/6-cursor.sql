@@ -1,12 +1,3 @@
-/*
-do $$
-<<CUR>>
-begin
-  raise notice 'hello';
-end CUR $$;
-*/
-drop function CUR();
-
 create or replace function CUR()
   returns void
   language plpgsql
