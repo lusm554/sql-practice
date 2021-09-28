@@ -1,4 +1,4 @@
--- probably i would be better use here rank, but i'm not sure.
+-- probably would be better use here rank, but i'm not sure.
 select
   t.v_name
 from
